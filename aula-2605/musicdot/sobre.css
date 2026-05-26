@@ -1,0 +1,22 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: #5d5a56;
+  text-align: center;
+}
+
+h1 {
+  background-color: #6a89a7;
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 2px solid #000000;
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+
+  background-color: #6a89a7;
+  border: 1px solid #6a89a7;
+}
